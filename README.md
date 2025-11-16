@@ -9,8 +9,9 @@ This compact representation not only alleviates parameter redundancy but also mi
 Moreover, to enhance the modeling of fine-grained normal patterns, CKM integrates a refiner module and employs a dynamic weighted cosine loss, further improving feature discrimination and ensuring stable performance in continual anomaly detection. 
 Experiments show that CKM significantly outperforms existing methods, achieving state-of-the-art performance in CAD.
 # Overview of CKM
-
-# Train and Test
+![Uploading CKM.png…]()
+# Train an
+d Test
 We test datasets on the MVTec AD and VisA.  
 The test results will be given after the training is completed
 ```python 
